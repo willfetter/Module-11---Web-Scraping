@@ -1,8 +1,18 @@
 # Module-11---Web-Scraping
  Module 11 Challenge - By William Fetter
 
-## Files for Submission
+# Input Files
+The initial input files for the assignment are located within the "Starter_code" folder and are listed as:
+- "part_1_mars_news.ipynb"
+- "part_2_mars_weather.ipynb"
 
+# OutPut Files
+The resulting output files for the assignment are located within the main folder and are listed as:
+- "part_1_mars_news-final.ipynb"
+- "part_2_mars_weather-final.ipynb"
+- "mars_weather.csv"
+
+## Introduction
 What You're Creating
 This new assignment consists of two technical products. You will submit the following deliverables:
 Deliverable 1: Scrape titles and preview text from Mars news articles.
